@@ -1,3 +1,6 @@
+#https://github.com/vshnu1/lab11-VA-DD.git
+# Partner 1: Vishnu Araveeti
+# Partner 2: Damien Decker
 import math 
 
 def square_root(a):
